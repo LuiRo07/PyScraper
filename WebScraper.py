@@ -20,5 +20,5 @@ class Scraper:
                 print("\n" + url)
 
 
-news = "https://news.yahoo.com"
+# news = [news website wrapped as a string]
 Scraper(news).scrape()
